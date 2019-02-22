@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MainWndTabItem>
+  <Item id="lixian" text="离线空间" vip="1">
+    <IconImage>http://images.client.xunlei.com/thunder7/7.9/201310/x_5266348a93228yi.png</IconImage>
+    <TabIcon>http://images.client.xunlei.com/thunder7/7.9/201310/x_52663471a1cdcxs.png</TabIcon>
+    <ControlName>Offline.TaskMgrWnd</ControlName>
+    <OperationType>4</OperationType>
+    <XarName>Offline</XarName>
+    <DownloadUrl></DownloadUrl>
+    <Pos>1</Pos>
+  </Item>
+  <Item id="xiazaibao" text="下载宝" vip="0">
+    <IconImage>http://images.client.xunlei.com/thunder7/7.9/201607/x_577a097ee0ab9ht.png</IconImage>
+    <TabIcon>http://images.client.xunlei.com/thunder7/7.9/201607/x_577a0979991dbfz.png</TabIcon>
+    <OperationType>0</OperationType>
+    <OpenUrl url="http://xzb.xunlei.com/" jumpkey="1" openWay="0"/>
+    <Pos>4</Pos>
+  </Item>
+  <Item id="hymt" text="美女写真" vip="0">
+    <IconImage>http://images.client.xunlei.com/thunder7/7.9/201607/x_578f1d0c8375dcb.png</IconImage>
+    <TabIcon>http://images.client.xunlei.com/thunder7/7.9/201607/x_578f1d09c9097dx.png</TabIcon>
+    <OperationType>0</OperationType>
+    <OpenUrl url="http://meitu.xunlei.com/?referfrom=v_pc_mt_hytq_xl7tj" openWay="0"/>
+    <Pos>7</Pos>
+  </Item>
+</MainWndTabItem>
