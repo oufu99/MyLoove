@@ -1374,3 +1374,203 @@
 2019/02/23 00:28:30: 复制: F:\BaiduNetdiskDownload\Listary破解版\Listary.Pro.5.00.2410.fix\gen.crack\MSVCP140.dll -> D:\MyLoove\Listary\msvcp140.dll
 2019/02/23 00:28:33: 删除: D:\MyLoove\Listary\.DS_Store
 2019/02/23 00:29:21: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/02/25 00:52:05: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/02/25 00:52:07: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/02/25 00:52:09: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/02/25 00:53:33: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/02/25 00:53:42: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/02/25 00:54:00: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/02/28 02:32:43: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/02/28 02:33:03: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/03/01 09:04:10: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/03/06 19:57:25: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/03/06 19:58:03: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/03/09 20:49:47: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/03/09 21:03:39: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/03/10 18:29:08: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/03/10 19:36:59: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/03/17 20:49:25: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/03/17 20:51:10: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/03/17 20:51:37: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/03/22 00:24:34: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/03/22 00:24:38: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/03/22 00:25:41: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/03/22 00:27:48: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/03/23 12:19:56: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/03/23 12:50:08: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/03/24 22:55:55: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/03/24 22:55:57: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/03/26 21:41:49: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/03/26 21:57:39: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/03/31 20:02:11: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/05 15:16:33: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/05 16:51:54: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/06 18:37:12: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/07 17:41:35: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/07 17:42:07: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/07 17:42:19: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/07 18:06:43: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/07 18:06:59: 复制: D:\MyConfig\代码段\C#\cdt.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\cdt.snippet
+2019/04/07 18:06:59: 复制: D:\MyConfig\代码段\C#\cempty.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\cempty.snippet
+2019/04/07 18:06:59: 复制: D:\MyConfig\代码段\C#\cg.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\cg.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\class.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\class.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\cnull.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\cnull.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\cr.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\cr.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\ctx.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\ctx.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\getvalue.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\getvalue.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\gval.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\gval.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\iem.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\iem.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\if.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\if.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\List.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\List.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\prop.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\prop.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\rcust.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\rcust.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\returnres.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\returnres.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\rmanu.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\rmanu.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\sm.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\sm.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\sql.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\sql.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\sqlCatalogId.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\sqlCatalogId.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\try.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\try.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\utran.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\utran.snippet
+2019/04/07 18:07:01: 复制: D:\MyConfig\代码段\C#\wlog.snippet -> C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC#\Snippets\2052\Visual C#\wlog.snippet
+2019/04/07 18:07:12: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/07 18:07:27: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/07 18:09:40: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/07 18:10:16: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/07 18:11:36: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/07 18:11:41: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/07 18:11:48: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/07 18:12:40: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/07 18:12:50: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/07 18:33:00: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/07 18:34:00: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/07 18:37:50: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/07 18:37:55: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/07 18:38:40: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/07 18:38:48: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/07 22:58:20: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/07 22:59:16: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/08 20:43:37: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/08 20:44:36: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/08 20:44:43: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/08 20:45:02: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/08 20:45:05: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/08 20:45:08: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/08 20:45:13: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/08 20:46:08: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/08 21:36:29: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/08 21:36:50: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/09 19:30:04: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/09 19:30:06: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/11 21:08:45: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/11 21:08:46: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/11 23:32:42: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/13 18:13:01: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/13 18:13:02: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/16 21:29:56: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/16 21:43:11: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/17 22:06:19: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/17 22:06:48: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/19 00:15:23: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/19 00:34:50: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/19 20:02:48: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/19 20:05:08: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/24 21:12:44: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/26 22:37:03: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/26 22:37:20: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/28 19:56:13: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/28 19:56:13: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/28 19:56:15: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/04/29 19:42:54: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/04/29 19:43:15: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/01 12:30:51: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/02 11:19:14: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/03 17:47:58: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/03 17:48:10: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/04 18:54:58: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/04 18:55:32: 新建文件夹: E:\Mirror\lib\Mvc专用
+2019/05/04 18:56:11: 移动: E:\Mirror\lib\Mvc专用\System.Web.Optimization.dll -> E:\Mirror\lib\Mvc专用\System.Web.Optimization(BundleMode).dll
+2019/05/04 18:56:14: 移动: E:\Mirror\lib\Mvc专用\System.Web.Optimization(BundleMode).dll -> E:\Mirror\lib\Mvc专用\System.Web.Optimization(BundleModel).dll
+2019/05/04 18:57:45: 移动: E:\Mirror\lib\Mvc专用\System.Web.Optimization(BundleModel).dll -> E:\Mirror\lib\Mvc专用\System.Web.Optimization.dll
+2019/05/04 18:57:46: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/04 18:58:39: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/04 18:58:42: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/04 18:58:44: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/04 18:58:59: 创建文件: E:\Mirror\lib\Mvc专用\dll说明.txt
+2019/05/04 18:59:23: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/04 19:04:37: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/04 19:04:43: 复制: E:\Mirror\Aaron.Erp\packages\Microsoft.AspNet.Razor.3.2.4\lib\net45\System.Web.Razor.dll -> E:\Mirror\lib\Mvc专用\System.Web.Razor.dll
+2019/05/04 19:04:48: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/08 21:21:00: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/08 21:21:03: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/09 19:05:21: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/09 19:05:40: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/10 21:27:53: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/10 21:27:56: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/10 22:22:37: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/11 22:17:42: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/12 08:57:37: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/12 08:57:46: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/12 10:26:47: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/12 10:26:47: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/12 10:26:51: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/12 10:26:52: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/12 10:26:54: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/12 10:27:12: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/12 10:33:47: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/15 18:53:32: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/15 18:53:57: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/15 20:01:02: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/17 13:06:29: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/17 13:06:32: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/17 13:10:14: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/17 13:10:15: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/18 23:44:51: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/18 23:44:53: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/25 11:30:18: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/25 11:31:56: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/25 17:52:46: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/25 17:52:48: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/25 22:10:03: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/25 22:10:04: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/26 18:30:28: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/26 18:30:30: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/26 19:51:29: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/26 19:52:22: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/27 21:24:44: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/27 21:24:45: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/30 00:02:20: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/30 00:02:51: 复制: E:\MyConfig\MyConfig\Preferences.json -> C:\Users\admin\AppData\Roaming\Listary\UserData\Preferences.json
+2019/05/30 00:02:53: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/05/30 21:02:56: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/31 21:01:13: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/05/31 21:01:14: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/01 00:09:49: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/01 00:09:50: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/01 21:25:44: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/01 21:55:11: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/02 12:40:58: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/02 15:04:48: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/02 17:17:37: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/06 20:47:27: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/06 20:47:29: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/09 22:32:28: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/09 22:32:43: 删除(跳过): F:\迅雷下载\权利的游戏.Game.of.Thrones.S01E03.Chi_Eng.BD-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+2019/06/09 22:33:16: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/09 22:34:07: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/09 22:34:09: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/09 22:34:10: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/12 22:43:25: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/12 22:43:26: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/14 21:01:59: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/14 21:02:01: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/14 21:27:19: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/14 21:27:22: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/26 21:58:34: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/26 21:58:35: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/29 13:49:19: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/29 13:49:32: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/06/29 17:41:47: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/06/29 17:41:49: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/07/06 11:02:34: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/07/06 11:07:18: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/07/06 11:08:15: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
