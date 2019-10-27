@@ -44901,3 +44901,298 @@
 [2019-10-27 17:57:43] [Info] Disconnect mtalk.google.com:5228
 [2019-10-27 17:57:43] [Info] Connect mtalk.google.com:5228
 [2019-10-27 17:57:49] [Info] Direct connect hm.baidu.com:443
+[2019-10-27 19:15:33] ShadowsocksR started on port 1081
+[2019-10-27 19:15:33] [Info] Direct connect tbmsg.baidu.com:443
+[2019-10-27 19:15:43] [Info] Connect raw.githubusercontent.com:443
+[2019-10-27 19:15:48] [Info] Connect raw.githubusercontent.com:443
+[2019-10-27 19:15:51] [Info] Connect chrome.google.com:443
+[2019-10-27 19:15:53] [Info] Connect raw.githubusercontent.com:443
+[2019-10-27 19:15:56] [Info] Connect chrome.google.com:443
+[2019-10-27 19:15:56] [Error] connect to update server error
+[2019-10-27 19:16:01] [Info] Connect chrome.google.com:443
+[2019-10-27 19:16:06] [Info] Disconnect chrome.google.com:443
+[2019-10-27 19:16:06] [Info] Connect chrome.google.com:443
+[2019-10-27 19:16:12] [Info] Connect chrome.google.com:443
+[2019-10-27 19:16:17] [Info] Connect chrome.google.com:443
+[2019-10-27 19:16:21] [Info] Direct connect update.pan.baidu.com:80
+[2019-10-27 19:16:24] [Info] Direct connect clientservices.googleapis.com:443
+[2019-10-27 19:16:25] [Info] Connect www.inoreader.com:443
+[2019-10-27 19:16:28] [Info] Direct connect hm.baidu.com:443
+[2019-10-27 19:16:30] [Info] Connect www.inoreader.com:443
+[2019-10-27 19:16:35] [Info] Disconnect raw.githubusercontent.com:443
+[2019-10-27 19:16:35] [Info] Connect www.inoreader.com:443
+[2019-10-27 19:16:37] [Info] Connect settings-win.data.microsoft.com:443
+[2019-10-27 19:16:40] [Info] Disconnect www.inoreader.com:443
+[2019-10-27 19:16:43] [Info] Connect settings-win.data.microsoft.com:443
+[2019-10-27 19:16:50] [Info] Disconnect chrome.google.com:443
+[2019-10-27 19:16:50] [Info] Connect chrome.google.com:443
+[2019-10-27 19:16:55] [Info] Connect chrome.google.com:443
+[2019-10-27 19:17:01] [Info] Connect chrome.google.com:443
+[2019-10-27 19:17:01] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:02] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:02] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:02] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:03] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:03] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:03] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:04] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:05] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:05] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:05] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:05] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:06] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:06] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:06] [Info] Disconnect chrome.google.com:443
+[2019-10-27 19:17:06] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:06] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:06] [Info] Connect google.com:443
+[2019-10-27 19:17:06] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:07] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:07] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:07] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:17:08] [Info] Connect t66y.com:80
+[2019-10-27 19:17:11] [Info] Connect google.com:443
+[2019-10-27 19:17:17] [Info] Connect google.com:443
+[2019-10-27 19:17:22] [Info] Disconnect google.com:443
+[2019-10-27 19:17:24] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-10-27 19:17:26] [Info] Connect raw.githubusercontent.com:443
+[2019-10-27 19:17:26] [Info] Connect easylist-downloads.adblockplus.org:443
+[2019-10-27 19:17:26] [Info] Connect easylist-downloads.adblockplus.org:443
+[2019-10-27 19:17:30] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-10-27 19:17:30] [Info] Connect settings-win.data.microsoft.com:443
+[2019-10-27 19:17:31] [Info] Connect easylist-downloads.adblockplus.org:443
+[2019-10-27 19:17:36] [Info] Connect easylist-downloads.adblockplus.org:443
+[2019-10-27 19:17:45] [Info] Connect t66y.com:80
+[2019-10-27 19:17:50] [Info] Connect t66y.com:80
+[2019-10-27 19:17:56] [Info] Disconnect raw.githubusercontent.com:443
+[2019-10-27 19:18:00] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2019-10-27 19:18:03] [Info] Disconnect t66y.com:80
+[2019-10-27 19:18:04] [Info] Direct connect translate.googleapis.com:443
+[2019-10-27 19:18:06] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-10-27 19:18:10] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2019-10-27 19:18:13] [Info] Connect vortex.data.microsoft.com:443
+[2019-10-27 19:18:18] [Info] Connect vortex.data.microsoft.com:443
+[2019-10-27 19:18:23] [Info] Connect vortex.data.microsoft.com:443
+[2019-10-27 19:18:24] [Info] Direct connect tbmsg.baidu.com:443
+[2019-10-27 19:18:39] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:18:40] [Info] Connect t66y.com:80
+[2019-10-27 19:18:47] ShadowsocksR started on port 1081
+[2019-10-27 19:18:53] [Info] Direct connect tbmsg.baidu.com:443
+[2019-10-27 19:18:57] [Info] Connect raw.githubusercontent.com:443
+[2019-10-27 19:19:05] [Info] Connect t66y.com:80
+[2019-10-27 19:19:35] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:19:36] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:19:36] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:36] [Info] Disconnect t66y.com:80
+[2019-10-27 19:19:36] [Info] Connect raw.githubusercontent.com:443
+[2019-10-27 19:19:37] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:37] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:19:38] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:38] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:39] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:39] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:39] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:39] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:39] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:39] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:39] [Info] Direct connect www.googletagmanager.com:443
+[2019-10-27 19:19:39] [Info] Direct connect api.geetest.com:80
+[2019-10-27 19:19:40] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:40] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:40] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:40] [Info] Connect clients1.google.com:443
+[2019-10-27 19:19:40] [Info] Direct connect www.google-analytics.com:443
+[2019-10-27 19:19:41] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-10-27 19:19:41] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:19:41] [Info] Connect raw.githubusercontent.com:443
+[2019-10-27 19:19:43] [Info] Direct connect api.geetest.com:80
+[2019-10-27 19:19:47] [Info] Disconnect raw.githubusercontent.com:443
+[2019-10-27 19:19:47] [Info] Connect raw.githubusercontent.com:443
+[2019-10-27 19:19:52] [Info] Connect raw.githubusercontent.com:443
+[2019-10-27 19:19:52] [Info] Disconnect clients1.google.com:443
+[2019-10-27 19:19:53] [Info] Connect clients1.google.com:443
+[2019-10-27 19:19:58] [Info] Connect clients1.google.com:443
+[2019-10-27 19:20:03] [Info] Connect clients1.google.com:443
+[2019-10-27 19:20:05] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:07] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:08] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:09] [Info] Disconnect clients1.google.com:443
+[2019-10-27 19:20:09] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:09] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:09] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:09] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:09] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:09] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:09] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:09] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:09] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:09] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:09] [Info] Direct connect ssrladder.tk:80
+[2019-10-27 19:20:10] [Info] Connect clients1.google.com:443
+[2019-10-27 19:20:11] [Info] Connect clients1.google.com:443
+[2019-10-27 19:20:15] [Info] Connect clients1.google.com:443
+[2019-10-27 19:20:16] [Info] Connect clients1.google.com:443
+[2019-10-27 19:20:21] [Info] Connect clients1.google.com:443
+[2019-10-27 19:20:21] [Info] Connect clients1.google.com:443
+[2019-10-27 19:20:26] [Info] Disconnect clients1.google.com:443
+[2019-10-27 19:20:26] [Info] Connect clients1.google.com:443
+[2019-10-27 19:20:29] [Info] Direct connect www.5566.net:443
+[2019-10-27 19:20:29] [Info] Direct connect www.5566.net:443
+[2019-10-27 19:20:30] [Info] Connect clients1.google.com:443
+[2019-10-27 19:20:30] [Info] Direct connect s.5566.org:443
+[2019-10-27 19:20:30] [Info] Direct connect s.5566.org:443
+[2019-10-27 19:20:30] [Info] Direct connect www.baidu.com:443
+[2019-10-27 19:20:32] [Info] Disconnect clients1.google.com:443
+[2019-10-27 19:20:32] [Info] Connect chrome.google.com:443
+[2019-10-27 19:20:32] [Info] Disconnect clients1.google.com:443
+[2019-10-27 19:20:42] [Info] Disconnect clients1.google.com:443
+[2019-10-27 19:20:46] [Info] Disconnect chrome.google.com:443
+[2019-10-27 19:20:53] [Info] Connect clients4.google.com:443
+[2019-10-27 19:20:57] [Info] Connect clients1.google.com:443
+[2019-10-27 19:20:58] [Info] Connect clients4.google.com:443
+[2019-10-27 19:21:00] [Info] Connect chrome.google.com:443
+[2019-10-27 19:21:02] [Info] Connect clients1.google.com:443
+[2019-10-27 19:21:03] [Info] Connect clients4.google.com:443
+[2019-10-27 19:21:05] [Info] Direct connect ssl.google-analytics.com:443
+[2019-10-27 19:21:06] [Info] Connect lh3.googleusercontent.com:443
+[2019-10-27 19:21:06] [Info] Connect lh3.googleusercontent.com:443
+[2019-10-27 19:21:06] [Info] Connect lh3.googleusercontent.com:443
+[2019-10-27 19:21:06] [Info] Connect lh3.googleusercontent.com:443
+[2019-10-27 19:21:06] [Info] Connect lh3.googleusercontent.com:443
+[2019-10-27 19:21:06] [Info] Connect lh3.googleusercontent.com:443
+[2019-10-27 19:21:06] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-10-27 19:21:06] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-10-27 19:21:06] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-10-27 19:21:06] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-10-27 19:21:07] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-10-27 19:21:09] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:09] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:10] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:10] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:10] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:11] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:11] [Info] Direct connect www.baidu.com:443
+[2019-10-27 19:21:11] [Info] Direct connect ss1.baidu.com:443
+[2019-10-27 19:21:11] [Info] Direct connect ss0.bdstatic.com:443
+[2019-10-27 19:21:11] [Info] Direct connect ss0.baidu.com:443
+[2019-10-27 19:21:12] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-10-27 19:21:12] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-10-27 19:21:12] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2019-10-27 19:21:12] [Info] Direct connect sp0.baidu.com:443
+[2019-10-27 19:21:12] [Info] Direct connect sp1.baidu.com:443
+[2019-10-27 19:21:13] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:13] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:14] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:14] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:14] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:14] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:15] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:16] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:16] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:16] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:16] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:17] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:17] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:18] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:18] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:18] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:18] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:19] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:19] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:19] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:19] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:19] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:20] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:20] [Info] Direct connect suggestion.baidu.com:80
+[2019-10-27 19:21:20] [Info] Connect t66y.com:80
+[2019-10-27 19:21:21] [Info] Connect t66y.com:80
+[2019-10-27 19:21:21] [Info] Disconnect t66y.com:80
+[2019-10-27 19:21:21] [Info] Connect t66y.com:80
+[2019-10-27 19:21:21] [Info] Disconnect t66y.com:80
+[2019-10-27 19:21:22] [Info] Disconnect t66y.com:80
+[2019-10-27 19:21:22] [Info] Connect t66y.com:80
+[2019-10-27 19:21:23] [Info] Connect www.viidii.info:80
+[2019-10-27 19:21:23] [Info] Direct connect s103.cnzz.com:80
+[2019-10-27 19:21:23] [Info] Disconnect t66y.com:80
+[2019-10-27 19:21:23] [Info] Direct connect c.cnzz.com:80
+[2019-10-27 19:21:23] [Info] Direct connect hzs6.cnzz.com:80
+[2019-10-27 19:21:23] [Info] Direct connect online.cnzz.com:80
+[2019-10-27 19:21:23] [Info] Disconnect www.viidii.info:80
+[2019-10-27 19:21:25] [Info] Connect www.inoreader.com:443
+[2019-10-27 19:21:31] [Info] Connect tsfe.trafficshaping.dsp.mp.microsoft.com:443
+[2019-10-27 19:21:32] [Info] Disconnect tsfe.trafficshaping.dsp.mp.microsoft.com:443
+[2019-10-27 19:21:37] [Info] Connect t66y.com:80
+[2019-10-27 19:21:38] [Info] Connect www.viidii.info:80
+[2019-10-27 19:21:38] [Info] Connect cdnjs.cloudflare.com:443
+[2019-10-27 19:21:38] [Info] Disconnect t66y.com:80
+[2019-10-27 19:21:38] [Info] Disconnect www.viidii.info:80
+[2019-10-27 19:21:38] [Info] Direct connect hzs6.cnzz.com:80
+[2019-10-27 19:21:41] [Info] Connect raw.githubusercontent.com:443
+[2019-10-27 19:21:44] [Info] Connect t66y.com:80
+[2019-10-27 19:21:45] [Info] Disconnect t66y.com:80
+[2019-10-27 19:21:45] [Info] Direct connect hzs6.cnzz.com:80
+[2019-10-27 19:21:48] [Info] Direct connect hm.baidu.com:443
+[2019-10-27 19:21:49] [Info] Connect google.com:443
+[2019-10-27 19:21:49] [Info] Connect t66y.com:80
+[2019-10-27 19:21:49] [Info] Connect www.viidii.info:80
+[2019-10-27 19:21:49] [Info] Direct connect s103.cnzz.com:80
+[2019-10-27 19:21:49] [Info] Connect www.yuoimg.com:443
+[2019-10-27 19:21:50] [Info] Connect www.touimg.com:443
+[2019-10-27 19:21:50] [Info] Direct connect ww1.sinaimg.cn:80
+[2019-10-27 19:21:50] [Info] Disconnect t66y.com:80
+[2019-10-27 19:21:50] [Info] Direct connect c.cnzz.com:80
+[2019-10-27 19:21:50] [Info] Direct connect hzs6.cnzz.com:80
+[2019-10-27 19:21:50] [Info] Direct connect online.cnzz.com:80
+[2019-10-27 19:21:50] [Info] Direct connect cnzz.mmstat.com:80
+[2019-10-27 19:21:50] [Info] Connect www.louimg.com:443
+[2019-10-27 19:21:50] [Info] Connect www.louimg.com:443
+[2019-10-27 19:21:50] [Info] Connect www.louimg.com:443
+[2019-10-27 19:21:50] [Info] Connect www.louimg.com:443
+[2019-10-27 19:21:50] [Info] Connect www.louimg.com:443
+[2019-10-27 19:21:50] [Info] Connect www.louimg.com:443
+[2019-10-27 19:21:50] [Info] Disconnect www.viidii.info:80
+[2019-10-27 19:21:50] [Info] Direct connect pcookie.cnzz.com:80
+[2019-10-27 19:21:50] [Info] Connect www.louimg.com:443
+[2019-10-27 19:21:50] [Info] Connect www.louimg.com:443
+[2019-10-27 19:21:51] [Info] Disconnect www.louimg.com:443
+[2019-10-27 19:21:51] [Info] Disconnect www.louimg.com:443
+[2019-10-27 19:21:51] [Info] Disconnect www.louimg.com:443
+[2019-10-27 19:21:51] [Info] Disconnect www.louimg.com:443
+[2019-10-27 19:21:51] [Info] Disconnect www.louimg.com:443
+[2019-10-27 19:22:04] [Info] Disconnect www.louimg.com:443
+[2019-10-27 19:22:04] [Info] Disconnect www.louimg.com:443
+[2019-10-27 19:22:08] [Info] Connect t66y.com:80
+[2019-10-27 19:22:09] [Info] Direct connect s103.cnzz.com:80
+[2019-10-27 19:22:09] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2019-10-27 19:22:09] [Info] Direct connect hzs6.cnzz.com:80
+[2019-10-27 19:22:09] [Info] Direct connect cnzz.mmstat.com:80
+[2019-10-27 19:22:09] [Info] Direct connect pcookie.cnzz.com:80
+[2019-10-27 19:22:09] [Info] Disconnect t66y.com:80
+[2019-10-27 19:23:07] [Info] Disconnect clients4.google.com:443
+[2019-10-27 19:23:11] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-10-27 19:23:13] [Info] Disconnect chrome.google.com:443
+[2019-10-27 19:23:14] [Info] Connect vortex.data.microsoft.com:443
+[2019-10-27 19:23:27] [Info] Disconnect www.inoreader.com:443
+[2019-10-27 19:23:39] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-10-27 19:23:45] [Info] Disconnect raw.githubusercontent.com:443
+[2019-10-27 19:23:45] [Error] connect to update server error
+[2019-10-27 19:23:51] [Info] Disconnect google.com:443
+[2019-10-27 19:23:53] [Info] Disconnect www.yuoimg.com:443
+[2019-10-27 19:23:57] [Info] Connect raw.githubusercontent.com:443
+[2019-10-27 19:23:59] [Error] connect to update server error
+[2019-10-27 19:24:11] [Info] Disconnect www.louimg.com:443
+[2019-10-27 19:24:15] [Info] Disconnect www.touimg.com:443

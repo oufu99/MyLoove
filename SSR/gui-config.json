@@ -103,7 +103,7 @@
 			"udp_over_tcp" : false
 		}
 	],
-	"index" : 5,
+	"index" : 1,
 	"random" : false,
 	"sysProxyMode" : 2,
 	"shareOverLan" : false,
