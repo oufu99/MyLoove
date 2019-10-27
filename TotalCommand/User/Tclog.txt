@@ -1708,3 +1708,16 @@
 2019/10/26 21:38:13: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
 2019/10/26 21:38:15: 程序关闭 (admin/DESKTOP-P7UJA4U)
 2019/10/27 17:48:51: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/10/27 18:00:08: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/10/27 18:21:34: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/10/27 18:22:38: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/10/27 18:57:59: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/10/27 18:58:07: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/10/27 19:04:12: 删除: C:\Users\admin\Downloads\xmind.zip
+2019/10/27 19:04:12: 删除文件夹: C:\Users\admin\Downloads\xmind.zip
+2019/10/27 19:04:14: 删除: C:\Users\admin\Downloads\未确认 305567.crdownload
+2019/10/27 19:04:40: 移动: C:\Users\admin\Downloads\xmind.zip -> C:\Users\admin\Downloads\xmind思维导图.zip
+2019/10/27 19:06:08: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/10/27 19:09:55: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/10/27 19:12:50: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/10/27 19:13:11: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
