@@ -19,14 +19,25 @@
 		},
 		{
 			"remarks" : "线路-A [电信|联通]",
+<<<<<<< HEAD
 			"id" : "5D35EB24AFADF21E0F7BED086A0EF0D0",
+=======
+			"id" : "5D50B2280D6BFED9A2454ECE4FC65D98",
+>>>>>>> f35c1971a4273376a5c8fd4374d861dca5373bc1
 			"server" : "f6ae5a35.ss-up.com",
 			"server_port" : 80,
 			"server_udp_port" : 0,
+<<<<<<< HEAD
 			"password" : "ss-up.com",
 			"method" : "none",
 			"protocol" : "auth_chain_a",
 			"protocolparam" : "33266:eaBmuX",
+=======
+			"password" : "eaBmuX",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+>>>>>>> f35c1971a4273376a5c8fd4374d861dca5373bc1
 			"obfs" : "plain",
 			"obfsparam" : "",
 			"remarks_base64" : "57q_6LevLUEgW-eUteS_oXzogZTpgJpd",
@@ -36,14 +47,25 @@
 		},
 		{
 			"remarks" : "线路-B [电信|联通]",
+<<<<<<< HEAD
 			"id" : "EF1A400D4FE154B3028BD899B025398E",
+=======
+			"id" : "9691180746DDAA742FAE2118EE84D017",
+>>>>>>> f35c1971a4273376a5c8fd4374d861dca5373bc1
 			"server" : "3bd7858d.ss-up.com",
 			"server_port" : 80,
 			"server_udp_port" : 0,
+<<<<<<< HEAD
 			"password" : "ss-up.com",
 			"method" : "none",
 			"protocol" : "auth_chain_a",
 			"protocolparam" : "33266:eaBmuX",
+=======
+			"password" : "eaBmuX",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+>>>>>>> f35c1971a4273376a5c8fd4374d861dca5373bc1
 			"obfs" : "plain",
 			"obfsparam" : "",
 			"remarks_base64" : "57q_6LevLUIgW-eUteS_oXzogZTpgJpd",
@@ -53,14 +75,25 @@
 		},
 		{
 			"remarks" : "线路-C [移动|联通]",
+<<<<<<< HEAD
 			"id" : "0D77D842EF9C31BBA946A079EEE6B621",
+=======
+			"id" : "82F28685A506437A969AB44F36A8571D",
+>>>>>>> f35c1971a4273376a5c8fd4374d861dca5373bc1
 			"server" : "bdebdc35.ss-up.com",
 			"server_port" : 80,
 			"server_udp_port" : 0,
+<<<<<<< HEAD
 			"password" : "ss-up.com",
 			"method" : "none",
 			"protocol" : "auth_chain_a",
 			"protocolparam" : "33266:eaBmuX",
+=======
+			"password" : "eaBmuX",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+>>>>>>> f35c1971a4273376a5c8fd4374d861dca5373bc1
 			"obfs" : "plain",
 			"obfsparam" : "",
 			"remarks_base64" : "57q_6LevLUMgW-enu-WKqHzogZTpgJpd",
@@ -70,14 +103,25 @@
 		},
 		{
 			"remarks" : "线路-D [电信|联通]",
+<<<<<<< HEAD
 			"id" : "247929ADE5DA57C4917F33E70EA345AD",
+=======
+			"id" : "A0E96FDB4C9AA07D520D0443F4585F4A",
+>>>>>>> f35c1971a4273376a5c8fd4374d861dca5373bc1
 			"server" : "a4380923.ss-up.com",
 			"server_port" : 80,
 			"server_udp_port" : 0,
+<<<<<<< HEAD
 			"password" : "ss-up.com",
 			"method" : "none",
 			"protocol" : "auth_chain_a",
 			"protocolparam" : "33266:eaBmuX",
+=======
+			"password" : "eaBmuX",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+>>>>>>> f35c1971a4273376a5c8fd4374d861dca5373bc1
 			"obfs" : "plain",
 			"obfsparam" : "",
 			"remarks_base64" : "57q_6LevLUQgW-eUteS_oXzogZTpgJpd",
@@ -87,14 +131,25 @@
 		},
 		{
 			"remarks" : "线路-E [移动|联通]",
+<<<<<<< HEAD
 			"id" : "9167FE6FB5BBEAD7DDC88A9DC32D33C4",
+=======
+			"id" : "44EC7C73F12B0B8DC316A52B96D4C2AC",
+>>>>>>> f35c1971a4273376a5c8fd4374d861dca5373bc1
 			"server" : "4c4c937b.ss-up.com",
 			"server_port" : 80,
 			"server_udp_port" : 0,
+<<<<<<< HEAD
 			"password" : "ss-up.com",
 			"method" : "none",
 			"protocol" : "auth_chain_a",
 			"protocolparam" : "33266:eaBmuX",
+=======
+			"password" : "eaBmuX",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+>>>>>>> f35c1971a4273376a5c8fd4374d861dca5373bc1
 			"obfs" : "plain",
 			"obfsparam" : "",
 			"remarks_base64" : "57q_6LevLUUgW-enu-WKqHzogZTpgJpd",
@@ -103,7 +158,11 @@
 			"udp_over_tcp" : false
 		}
 	],
+<<<<<<< HEAD
 	"index" : 2,
+=======
+	"index" : 5,
+>>>>>>> f35c1971a4273376a5c8fd4374d861dca5373bc1
 	"random" : false,
 	"sysProxyMode" : 2,
 	"shareOverLan" : false,
