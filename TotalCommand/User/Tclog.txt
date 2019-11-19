@@ -1386,3 +1386,12 @@
 2019/11/19 22:27:23: 复制: D:\git的代码\MyLove\AHK\StartAllMyLoveAhk.ahk -> D:\MyLoove\AHK\StartAllMyLoveAhk.ahk
 2019/11/19 22:27:29: 移动: D:\MyLoove\AHK\MyLove.ahk -> D:\MyLoove\AHK\MyLoove.ahk
 2019/11/19 22:27:40: 移动: D:\MyLoove\AHK\StartAllMyLoveAhk.ahk -> D:\MyLoove\AHK\StartAllMyLooveAhk.ahk
+2019/11/19 22:53:24: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/11/19 22:53:32: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/11/19 22:54:20: 复制: D:\MyLoove\批处理文件\openAllSoft.bat -> D:\MyConfig\openAllSoft.bat
+2019/11/19 22:54:32: 移动: D:\MyConfig\openAllSoft.bat -> D:\MyConfig\MyLooveOpenAllSoft.bat
+2019/11/19 22:55:15: 移动: D:\MyLoove\AHK\OpenMyLoveQQ.ahk -> D:\MyLoove\AHK\OpenMyLooveQQ.ahk
+2019/11/19 22:56:12: 删除: C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\openAllSoft.bat .lnk
+2019/11/19 22:56:27: 移动: C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\StartAllMyLooveAhk.ahk - 快捷方式.lnk -> C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\StartAllMyLooveAhk.ahk.lnk
+2019/11/19 22:58:02: 移动: C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\MyLooveOpenAllSoft.bat - 快捷方式.lnk -> C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\MyLooveOpenAllSoft.bat.lnk
+2019/11/19 22:58:39: 删除: D:\default.css
