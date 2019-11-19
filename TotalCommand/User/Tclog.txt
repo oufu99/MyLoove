@@ -1370,3 +1370,19 @@
 2019/11/18 21:59:03: 复制: G:\流程.txt -> F:\长久备份 如U盘等\U盘备份\流程.txt
 2019/11/18 21:59:03: 复制: G:\欧佳林_四年-MVC.pdf -> F:\长久备份 如U盘等\U盘备份\欧佳林_四年-MVC.pdf
 2019/11/18 22:30:30: 程序关闭 (admin/DESKTOP-P7UJA4U)
+2019/11/19 20:34:54: 程序启动 (admin/DESKTOP-P7UJA4U) UTF-8
+2019/11/19 22:25:43: 复制(错误： 中止): D:\MyConfig\为知样式\原版配置\default.css -> C:\Program Files (x86)\WizNote\WizTools\htmleditor\default.css
+2019/11/19 22:25:50: 复制: D:\MyConfig\为知样式\原版配置\default.css -> C:\Program Files (x86)\WizNote\WizTools\htmleditor\default.css
+2019/11/19 22:26:02: 复制: D:\MyConfig\为知样式\原版配置\default.css -> C:\Program Files (x86)\WizNote\WizTools\htmleditor\default.css
+2019/11/19 22:26:05: 删除(跳过): C:\Program Files (x86)\WizNote\WizTools\htmleditor\default.css
+2019/11/19 22:26:07: 删除: C:\Program Files (x86)\WizNote\WizTools\htmleditor\default.css
+2019/11/19 22:26:10: 复制(错误： 相同): D:\MyConfig\为知样式\原版配置\default.css -> D:\MyConfig\为知样式\原版配置\default.css
+2019/11/19 22:26:12: 复制(错误： 中止): D:\MyConfig\为知样式\原版配置\default.css -> C:\Program Files (x86)\WizNote\WizTools\htmleditor\default.css
+2019/11/19 22:26:14: 复制: D:\MyConfig\为知样式\原版配置\default.css -> C:\Program Files (x86)\WizNote\WizTools\htmleditor\default.css
+2019/11/19 22:26:19: 复制: D:\MyConfig\为知样式\pcCustom.css -> C:\Program Files (x86)\WizNote\WizTools\htmleditor\pcCustom.css
+2019/11/19 22:27:23: 新建文件夹: D:\MyLoove\AHK
+2019/11/19 22:27:23: 复制: D:\git的代码\MyLove\AHK\MyLove.ahk -> D:\MyLoove\AHK\MyLove.ahk
+2019/11/19 22:27:23: 复制: D:\git的代码\MyLove\AHK\OpenMyLoveQQ.ahk -> D:\MyLoove\AHK\OpenMyLoveQQ.ahk
+2019/11/19 22:27:23: 复制: D:\git的代码\MyLove\AHK\StartAllMyLoveAhk.ahk -> D:\MyLoove\AHK\StartAllMyLoveAhk.ahk
+2019/11/19 22:27:29: 移动: D:\MyLoove\AHK\MyLove.ahk -> D:\MyLoove\AHK\MyLoove.ahk
+2019/11/19 22:27:40: 移动: D:\MyLoove\AHK\StartAllMyLoveAhk.ahk -> D:\MyLoove\AHK\StartAllMyLooveAhk.ahk
