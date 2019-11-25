@@ -1,11 +1,11 @@
 {
 	"4c4c937b.ss-up.com" : {
-		"totalUploadBytes" : 342255757,
-		"totalDownloadBytes" : 2204060849
+		"totalUploadBytes" : 342260475,
+		"totalDownloadBytes" : 2204060978
 	},
 	"3bd7858d.ss-up.com" : {
-		"totalUploadBytes" : 169047276,
-		"totalDownloadBytes" : 590981877
+		"totalUploadBytes" : 169125645,
+		"totalDownloadBytes" : 593677073
 	},
 	"a4380923.ss-up.com" : {
 		"totalUploadBytes" : 15066,
@@ -18,5 +18,9 @@
 	"4f009211.ss-up.com" : {
 		"totalUploadBytes" : 7544957,
 		"totalDownloadBytes" : 51558621
+	},
+	"9d8ae3cd.ss-up.com" : {
+		"totalUploadBytes" : 4236253,
+		"totalDownloadBytes" : 14254017
 	}
 }
