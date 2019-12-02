@@ -1,7 +1,7 @@
 {
 	"4c4c937b.ss-up.com" : {
-		"totalUploadBytes" : 343447555,
-		"totalDownloadBytes" : 2233036535
+		"totalUploadBytes" : 352296787,
+		"totalDownloadBytes" : 2319342815
 	},
 	"3bd7858d.ss-up.com" : {
 		"totalUploadBytes" : 169125645,
@@ -16,25 +16,11 @@
 		"totalDownloadBytes" : 9952002
 	},
 	"4f009211.ss-up.com" : {
-<<<<<<< HEAD
 		"totalUploadBytes" : 8275595,
 		"totalDownloadBytes" : 88714015
 	},
 	"9d8ae3cd.ss-up.com" : {
 		"totalUploadBytes" : 4237816,
 		"totalDownloadBytes" : 14259954
-=======
-<<<<<<< HEAD
-		"totalUploadBytes" : 5774445,
-		"totalDownloadBytes" : 48423392
-=======
-		"totalUploadBytes" : 7544957,
-		"totalDownloadBytes" : 51558621
-	},
-	"9d8ae3cd.ss-up.com" : {
-		"totalUploadBytes" : 4236253,
-		"totalDownloadBytes" : 14254017
->>>>>>> 8064a7aa31b5541c5607ef7a9c088f7ce0feecf1
->>>>>>> 6f3cf10ba285a210d13fb287bdb896a7d484de52
 	}
 }
