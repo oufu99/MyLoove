@@ -7,8 +7,13 @@ SetDefaultMouseSpeed,0
 ; ----------------------------------------------------------------------------------
 ; 下面给出变量定义
 ; ----------------------------------------------------------------------------------
+<<<<<<< HEAD
 	NotePadPath="C:\Program Files (x86)\Notepad++\notepad++.exe"
 	TCPath="D:\MyLoove\TotalCommand\Totalcmd64.exe"
+=======
+	NotePadPath = "C:\Program Files\Notepad++\notepad++.exe"
+	TCPath="D:\MyLove\TotalCommand\Totalcmd64.exe"
+>>>>>>> db62eb789db7828d1332d516884b2554c1f80a42
 Return
 
 ; ----------------------------------------------------------------------------------
@@ -19,7 +24,11 @@ CapsLock & t::
 	IfWinExist, Notepad++
 		WinActivate ; 使用前面找到的窗口
 	else
+<<<<<<< HEAD
 	   run, %NotePadPath% 
+=======
+	   Run, C:\Program Files\Notepad++\notepad++.exe
+>>>>>>> db62eb789db7828d1332d516884b2554c1f80a42
 	   WinActivate ; 
 	Return
 
