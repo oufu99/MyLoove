@@ -43,7 +43,7 @@ CapsLock & t::
 	IfWinExist, WizNoteMainFrame
 		WinActivate ; 使用前面找到的窗口
 	else
-	   Run, D:\software\WizNote\Wiz.exe
+	   Run, C:\Program Files (x86)\WizNote\Wiz.exe
 	   WinActivate ; 
 	return
 	   
