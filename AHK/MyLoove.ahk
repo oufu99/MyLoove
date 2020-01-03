@@ -22,8 +22,22 @@ CapsLock & t::
 	else
 	   run, %NotePadPath% 
 	   WinActivate ; 
-	Return
+	return
 
+^+c::
+       ; 判断是否在TC中运行
+
+	   selected := ExplorerInfo(3)
+	    if(selected="")
+		{
+		  Run,cmd,C:\
+		}
+		else
+		{
+		  Run,cmd, %selected%
+		}
+	return
+	
 ; 打开TC开始 ========
 #If WinActive("ahk_class CabinetWClass") or WinActive("ahk_class ExploreWClass")
 	!w::
