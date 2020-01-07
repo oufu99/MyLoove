@@ -15,6 +15,20 @@ Return
 ; ----------------------------------------------------------------------------------
 ; 通用快捷键
 ; ----------------------------------------------------------------------------------
+^1::
+	 Run,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+	 Sleep,500
+	 Send,#{Up}
+	 Send,!d
+	 Sleep,100
+	 SendInput,chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/options.html
+	 Send,{Enter}
+	 ; 打开页面以后模拟点击坐标
+	 Sleep,100
+	 Click,1346,541
+	 Sleep,100
+	 Send,^a^c
+return
 
 CapsLock & t::
 	IfWinExist, Notepad++
