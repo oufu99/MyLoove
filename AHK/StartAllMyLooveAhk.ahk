@@ -7,6 +7,6 @@ Hotstring("EndChars","`t ")  ; 设置终止符 可以设置多个(){}!`n值之�
 
 #Include D:\MyLoove\AHK\MyLoove.ahk
 #Include D:\Common\CommonAHK\Capsez\capsez.ahk
-#Include D:\Common\CommonAHK\Capsez\OpenSoftWare.ahk
+#Include D:\Common\CommonAHK\Capsez\AaronAHK\OpenSoftWare.ahk
 
 

@@ -14,6 +14,6 @@ NotePadPath="C:\Program Files (x86)\Notepad++\notepad++.exe"
 TCPath="D:\MyLoove\TotalCommand\Totalcmd64.exe"
 WizPath:="D:\software\WizNote\Wiz.exe"
 
-#Include D:\Common\CommonAHK\Capsez\DiffPathCommonAHK.ahk
+#Include D:\Common\CommonAHK\Capsez\AaronAHK\DiffPathCommonAHK.ahk
  
  
