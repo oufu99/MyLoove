@@ -1,5 +1,5 @@
 [Buttonbar]
-Buttoncount=4
+Buttoncount=5
 button1=""C:\Program Files (x86)\Notepad++\notepad++.exe""
 cmd1=""C:\Program Files (x86)\Notepad++\notepad++.exe""
 iconic1=0
@@ -9,6 +9,9 @@ iconic2=0
 button3=""C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\Ssms.exe""
 cmd3=""C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\Ssms.exe""
 iconic3=0
-button4=wcmicons.dll,6
-cmd4=em_openWar3
+button4=D:\MyLoove\TotalCommand\MyIco\²éÑ¯¿ì½Ý¼ü.ico
+cmd4=cm_CommandBrowser
 iconic4=0
+button5=D:\MyLoove\TotalCommand\MyIco\Ìí¼ÓÉ¾³ý³ÌÐò.ico
+cmd5=em_appwiz
+iconic5=0
