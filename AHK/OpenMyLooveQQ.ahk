@@ -1,13 +1,13 @@
-#singleinstance force
+ï»¿#singleinstance force
 
  
-; Ctrl:^   Shift:+   Alt:!  Êó±êÓÒ¼ü:RButton
+; Ctrl:^   Shift:+   Alt:!  é¼ æ ‡å³é”®:RButton
 
   Run, C:\Program Files (x86)\Tencent\QQ\Bin\QQScLauncher.exe
   Winwaitactive, QQ
   Wingetpos, x, y, w, h
   x:=x+w//2
-  y:=y+h//2+110  ;×Ô¼ºÎ¢µ÷×İ×ø±ê
+  y:=y+h//2+110  ;è‡ªå·±å¾®è°ƒçºµåæ ‡
   Coordmode, Mouse
   Sleep,500
   mouseclick,, x, y
