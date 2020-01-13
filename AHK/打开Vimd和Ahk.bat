@@ -11,5 +11,5 @@ start "" "D:\Common\VimD\vimd.exe"
 taskkill /f /im vimd.exe
 start "" "D:\Common\VimD\vimd.exe"
 
-start "" "D:\MyLoove\AHK\StartAllMyLooveAhk.ahk"
+start "" "D:\MyLoove\AHK\MyLoove.ahk"
 exit

@@ -8,6 +8,8 @@ SetDefaultMouseSpeed,0
 ; 下面给出变量定义
 ; ----------------------------------------------------------------------------------
 
+Hotstring("EndChars","`t ")  ; 设置终止符 可以设置多个(){}!`n值之类不用分隔符
+
 
   ; 变量定义
 NotePadPath="C:\Program Files (x86)\Notepad++\notepad++.exe"
@@ -20,5 +22,5 @@ global adblockPath:="chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/options
 global screePoint:="1665,551"
 
 #Include D:\Common\CommonAHK\Capsez\AaronAHK\DiffPathCommonAHK.ahk
- 
+#Include D:\Common\CommonAHK\Capsez\capsez.ahk
  
