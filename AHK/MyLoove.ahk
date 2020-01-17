@@ -23,4 +23,5 @@ global screePoint:="1665,551"
 
 #Include D:\Common\CommonAHK\Capsez\AaronAHK\DiffPathCommonAHK.ahk
 #Include D:\Common\CommonAHK\Capsez\capsez.ahk
- 
+; 重启我的代码
+$~#Esc::Run,D:\MyLoove\AHK\MyLoove.ahk
