@@ -11,8 +11,6 @@ SetDefaultMouseSpeed,0
 Hotstring("EndChars","`t ")  ; 设置终止符 可以设置多个(){}!`n值之类不用分隔符
 
 
-
-
   ; 变量定义
 NotePadPath="C:\Program Files (x86)\Notepad++\notepad++.exe"
 TCPath="D:\MyLoove\TotalCommand\Totalcmd64.exe"
