@@ -18,7 +18,7 @@ WizPath:="C:\Program Files (x86)\WizNote\Wiz.exe"
 
 global targetTextPath:="D:\MyConfig\AdBlock拦截规则.txt"
 global chromePath:="C:\Users\admin\AppData\Local\Google\Chrome\Application\chrome.exe"
-global adblockPath:="chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/options.html"
+global adblockPath:="chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/options.html#customize"
 global screePoint:="1665,551"
 
  
